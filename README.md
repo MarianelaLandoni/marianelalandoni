@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marianela and I'm a frontend developer from Madrid. I love learning new skills, exploring nature 🌿, enjoying music (especially concerts 🎶 and playing the guitar 🎸), and spending time with my family and friends.</h2>
+<h2 align="left">Hi 👋! My name is Marianela and I'm a frontend and mobile developer from Madrid. I love learning new skills, exploring nature 🌿, enjoying music (especially concerts 🎶 and playing the guitar 🎸), and spending time with my family and friends.</h2>
 
 ###
 
